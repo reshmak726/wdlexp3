@@ -1,0 +1,180 @@
+
+  
+
+
+body{
+    background-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
+    background-size: cover;
+}
+.one{ 
+    position: absolute;
+    height: 40px;
+    width: 45px;
+    top: 20px;
+    border-radius: 10px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.rect{
+    height: 200px;
+    width: 400px;
+    border: 1px solid;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    background: #D17777;
+    border: thistle;
+    border-radius: 15px;
+    opacity: 80%;
+
+
+}
+.p1{
+    color: #F9E995;
+    text-align: center;
+    font-family: 'Salsa',cursive;
+    position: relative;
+   top: 15px;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.005em;
+}
+.rect1{
+    height: 450px;
+    width: 300px;
+    border: 1px solid;
+    position: absolute;
+    left: 720px;
+   top: 140px;
+   background: #CB8C8C;
+   border: thistle;
+   border-radius: 20px;
+}
+.mail{
+    height: 45px;
+    width: 50px;
+    position: relative;
+    left: 130px;
+    top: 10px;
+}
+.ig{
+    height: 60px;
+    width: 80px; 
+    position: relative;
+    top: 130px;
+    left: 65px;
+}
+.wa{
+    height: 50px;
+    width: 60px;
+    position: relative;
+    top: 230px;
+    right: 5px;
+   
+}
+.git{
+    height: 50px;
+    width: 60px;
+    position: relative;
+    top: 330px;
+    right: 70px;
+}
+.mail1{
+    position: relative;
+    left: 750px;
+    top: 190px;
+    font-family: 'Salsa',cursive;
+    font-size: 17px;
+    letter-spacing: 0.005em;
+}
+.ig1{
+    position: relative;
+    left: 820px;
+    top: 270px;
+    font-family: 'Salsa',cursive;
+    font-size: 17px;
+    letter-spacing: 0.005em;
+}
+.wa1{
+    position: relative;
+    left: 820px;
+    top: 350px;
+    font-family: 'Salsa',cursive;
+    font-size: 17px;
+    letter-spacing: 0.005em;
+}
+.git1{
+    position: relative;
+    left: 740px;
+    top: 420px;
+    font-family: 'Salsa',cursive;
+    font-size: 17px;
+    letter-spacing: 0.005em;
+}
+.nav{
+    background: #E87A7A;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    position: relative;
+    height: 40px;
+  margin-left: 0;
+}
+*{
+    margin: 0;
+}
+.nav1 a{
+    float:50px left;
+    text-decoration: none;
+    color: black;
+     margin-left: 200px; 
+    font-family: 'Salsa', cursive;
+    margin-top: 15px;
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+    text-align: center;
+      
+  }
+  .home{
+    position: absolute;
+    top: 5px;
+    left: 130px;
+    height: 35px;
+    width: 50px;
+  
+}
+a:hover{
+    color: wheat;
+    size: 28px;
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 1px ;
+    padding-left: 1px;
+    padding-right: 2px;
+
+}
+.edu1{
+    position: absolute;
+    top: 5px;
+    left: 410px;
+    height: 45px;
+    width: 45px;
+}
+.com{
+    position: absolute;
+    top: 5px;
+    left: 750px;
+    height: 35px;
+    width: 40px;
+}
+.jig{
+    position: absolute;
+    top: 5px;
+    right: 300px;
+    height: 35px;
+    width: 40px;
+}

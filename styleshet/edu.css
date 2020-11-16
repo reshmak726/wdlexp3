@@ -1,0 +1,156 @@
+body{
+    background-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 130px;
+    left: 60px;
+}
+.class1{
+    height: 50px;
+    width: 200px;
+    border: 1px solid;
+    position: relative;
+    left: 250px;
+    top: 100px;
+    background: linear-gradient(180deg, #B74F4F 0%, rgba(61, 35, 35, 0.125) 87.5%, rgba(34, 24, 24, 0) 100%);
+    border: lightcoral;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.p1{
+    position: relative;
+    top: 5px;
+    font-size: 30px;
+    font-family: 'Salsa',cursive;
+    color: #B4D8D1;
+}
+.class2{
+    height: 330px;
+    width: 250px;
+    border: 1px solid;
+    position: absolute;
+    left: 230px;
+    top: 210px;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #381C29 0%, rgba(163, 20, 87, 0.473) 100%);
+    border: maroon;
+}
+.p2{
+    text-align: center;
+    letter-spacing: 0.02em;
+    line-height: 50px;
+    font-family: 'Salsa',cursive;
+    color: #B2D5E0;
+    font-size: 20px;
+}
+.class3{
+    height: 50px;
+    width: 200px;
+    border: 1px solid;
+    position: relative;
+    left: 750px;
+    top: 44px;
+    background: linear-gradient(180deg, #B74F4F 0%, rgba(61, 35, 35, 0.125) 87.5%, rgba(34, 24, 24, 0) 100%);
+    border: lightcoral;
+    text-align: center;
+    border-radius: 20px;
+}
+.p3{
+    position: relative;
+    top: 5px;
+    font-size: 30px;
+    font-family: 'Salsa',cursive;
+    color: #B4D8D1;
+}
+.class4{
+    height: 330px;
+    width: 250px;
+    border: 1px solid;
+    position: absolute;
+    left: 730px;
+    top: 210px;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #381C29 0%, rgba(163, 20, 87, 0.473) 100%);
+    border: maroon;
+
+
+}
+.p4{
+    text-align: center;
+    letter-spacing: 0.02em;
+    line-height: 50px;
+    font-family: 'Salsa',cursive;
+    color: #B2D5E0;
+    font-size: 20px;
+}
+
+.nav{
+    background: #E87A7A;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    position: relative;
+    height: 40px;
+    top: 0px;
+    margin: 0;
+}
+*{
+    margin: 0;
+}
+
+.nav1 a{
+    float:50px left;
+    text-decoration: none;
+    color: black;
+     margin-left: 200px; 
+    font-family: 'Salsa', cursive;
+    margin-top: 15px;
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+    text-align: center;
+      
+  }
+  .pro{
+    position: absolute;
+    top: 5px;
+    left: 410px;
+    height: 35px;
+    width: 50px;
+  
+}
+a:hover{
+    color: wheat;
+    size: 28px;
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 1px ;
+    padding-left: 1px;
+    padding-right: 2px;
+
+}
+
+.home{
+    position: absolute;
+    top: 1px;
+    left: 130px;
+    height: 40px;
+    width: 45px;
+}
+.com{
+    position: absolute;
+    top: 5px;
+    left: 700px;
+    height: 35px;
+    width: 40px;
+}
+.jig{
+    position: absolute;
+    top: 5px;
+    right: 360px;
+    height: 35px;
+    width: 40px;
+}
+

@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
+    /* background-image: url("295-2959113_thumb-image-black-curve-design-png-transparent-png.jpg"); */
+    
+}
+.navbar{
+ 
+   height: 40px;
+   background-color:  #794949;
+   
+ 
+  
+   font-family: 'Salsa', cursive;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 40px;
+
+  letter-spacing: 0.16em;
+  color:  #EFC3C3;
+  text-align: center;
+}
+.n1{
+    margin: 0px;
+}
+.rectangle {
+    height: 250px;
+    width: 500px;
+    background-color: #555;
+    margin-left: 450px;
+    margin-top: 60px;
+    border-radius: 30px;
+    
+background: linear-gradient(180deg, #A02339 0%, #F74484 93.75%, #FC6BFF 100%);
+
+
+
+    
+}
+.img{
+    height: 150px;
+    width: 200px;
+    margin-left: 135px;
+    margin-top: 20px;
+    border-radius: 50%;
+
+}
+.logo{
+    height: 50px;
+    width: 40px;
+   margin-right: 130px;
+   border-radius: 50%;
+   margin-left: 30px;
+
+}
+.rect1{
+    background-color:  #602513;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+   
+    height: 30px;
+    text-align: center;
+    font-family:'Salsa', cursive; 
+    color: white;
+    font-size: 20px;
+
+
+   
+}
+.rect2{
+    height: 200px;
+    width: 700px;
+    border:1px solid;
+    border: purple;
+    background-color: white;
+    position: absolute;
+    left:350px;
+  top: 400px;
+   
+   
+    background-color:  #922243;
+    border-radius: 20px;
+}
+.p{ */ */
+    text-align: center;
+    position: relative;
+    top:20px;
+    left: 15px;
+    line-height: 30px;
+    letter-spacing: 0.055em;
+    color: rgba(249, 254, 255, 0.91);
+    
+    font-family: 'Salsa', cursive;
+    
+}
+.p1{
+    position: relative;
+    left: 240px;
+    bottom: 90px;
+    line-height: 30px;
+    letter-spacing: 0.055em;
+    color: rgba(249, 254, 255, 0.91);
+    
+    font-family: 'Salsa', cursive;
+}
+.p2{
+    position: relative;
+    left: 500px;
+   bottom: 240px;
+   line-height: 30px;
+   letter-spacing: 0.055em;
+   color: rgba(249, 254, 255, 0.91);
+   
+   font-family: 'Salsa', cursive;
+}
+
+.black1{
+    mix-blend-mode: darken;
+   mask-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
+}
+.navlogo{
+ align-content: initial;
+ padding-bottom: 50px;
+ position: absolute;
+ bottom: 450px;
+ left: 10px;
+ top: 50px;
+ height: 40px;
+ width: 45px;
+ border-radius:20px;
+ 
+}
+
+#left-bg{
+   height: 400px;
+   width: 600px;
+   position: absolute;
+   left:-100px;
+   top: 300px;
+}
+.nav{
+    background: #E87A7A;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    position: relative;
+    height: 40px;
+    margin: 0;
+}
+.nav1 a{
+  float:50px left;
+  text-decoration: none;
+  color: black;
+   margin-left: 200px; 
+  font-family: 'Salsa', cursive;
+  margin-top: 15px;
+  font-size: 25px;
+  position: relative;
+  top: 5px;
+  text-align: center;
+    
+}
+.pro{
+    position: absolute;
+    top: 5px;
+    left: 130px;
+    height: 35px;
+    width: 50px;
+  
+}
+a:hover{
+    color: wheat;
+    size: 28px;
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 1px ;
+    padding-left: 1px;
+    padding-right: 2px;
+
+}
+.edu1{
+    position: absolute;
+    top: 5px;
+    left: 410px;
+    height: 45px;
+    width: 45px;
+}
+.com{
+    position: absolute;
+    top: 5px;
+    left: 750px;
+    height: 35px;
+    width: 40px;
+}
+.jig{
+    position: absolute;
+    top: 5px;
+    right: 300px;
+    height: 35px;
+    width: 40px;
+}

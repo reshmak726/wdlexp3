@@ -1,0 +1,186 @@
+body{
+    background-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
+    background-size: cover;
+}
+.nav{
+    position: absolute;
+    height: 40px;
+    width: 45px;
+    top: 20px;
+    border-radius: 10px;
+}
+.skill{
+    height: 80px;
+    width: 130px;
+    border-radius: 20px;
+    position: absolute;
+    top: 280px;
+    left: 600px;
+}
+.pyt{
+   position: absolute;
+   top: 250px;
+   left: 250px;
+   height: 80px;
+   width: 90px;
+}
+.java{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    height: 90px;
+    width: 70px;
+}
+.js{
+    position: absolute;
+    top: 70px;
+    left: 630px;
+    height: 90px;
+    width: 70px;
+
+}
+.html{
+    position: absolute;
+    top: 100px;
+    left: 830px;
+    height: 100px;
+    width: 100px;
+
+}
+.ml{
+    position: absolute;
+    top: 240px;
+    left: 1000px;
+    height: 90px;
+    width: 60px;
+}
+.sql{
+    position: absolute;
+    top: 430px;
+    left: 400px;
+    height: 100px;
+    width: 80px;
+}
+.cs{
+    position: absolute;
+    top: 450px;
+    left: 630px;
+    height: 100px;
+    width: 80px;
+}
+.c{
+    position: absolute;
+    top: 430px;
+    left: 860px;
+    height: 100px;
+    width: 90px;
+}
+.rect{
+    height: 40px;
+    width: 130px;
+    border: 1px solid;
+    position: relative;
+    top: 320px;
+    left: 230px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.p{
+    text-align: center;
+    letter-spacing: 0.02em;
+    font-size: 20px;
+    font-family: 'Salsa', cursive;
+    position: relative;
+    top: 5px;
+}
+.rect1{
+    height: 40px;
+    width: 130px;
+    border: 1px solid;
+    position: relative;
+    top: 450px;
+    left: 370px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.rect2{
+    height: 40px;
+    width: 130px;
+    border: 1px solid;
+    position: relative;
+    top: 60px;
+    left: 370px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.rect3{
+    height: 40px;
+    width: 130px;
+    border: 1px solid;
+    position: relative;
+    bottom: 30px;
+    
+    left: 600px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.rect4{
+    height: 40px;
+    width: 130px;
+    border: 1px solid;
+    position: relative;
+    bottom: 60px;
+    
+    left: 810px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.rect5{
+    height: 40px;
+    width: 200px;
+    border: 1px solid;
+    position: relative;
+    top: 20px;
+    left: 920px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.rect6{
+    height: 40px;
+    width: 200px;
+    border: 1px solid;
+    position: relative;
+    top: 140px;
+    left: 800px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+.rect7{
+    height: 40px;
+    width: 200px;
+    border: 1px solid;
+    position: relative;
+    top: 120px;
+    left: 560px;
+    background: #E5E7A2;
+    border: lightcyan;
+    border-radius: 20px;
+}
+
+.go{
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    left: 30px;
+}
+.go:hover{
+    background-color: wheat;
+    border-radius: 5px;
+}
