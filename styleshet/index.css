@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
+    background-image: url("../luke-chesser-B_oL3jEt5L4-unsplash.jpg");
     /* background-image: url("295-2959113_thumb-image-black-curve-design-png-transparent-png.jpg"); */
     
 }
@@ -121,10 +121,7 @@ background: linear-gradient(180deg, #A02339 0%, #F74484 93.75%, #FC6BFF 100%);
    font-family: 'Salsa', cursive;
 }
 
-.black1{
-    mix-blend-mode: darken;
-   mask-image: url("/luke-chesser-B_oL3jEt5L4-unsplash.jpg");
-}
+
 .navlogo{
  align-content: initial;
  padding-bottom: 50px;
